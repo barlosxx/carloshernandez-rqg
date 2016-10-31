@@ -12,7 +12,5 @@ description.innerHTML = "This is a description";
 
 header.appendChild(description);
 
-
-
-
-
+var quoteArea = document.createElement("div");
+quoteArea.setAttribute("id","quoteArea");
